@@ -1,0 +1,197 @@
+Forms in HTML
+
+Where ever the users give an intput it helps
+google forms,registration
+
+
+This are the set by step process
+
+1.............fieldset
+
+fieldset  is the oping tag code in the forms in html
+<fieldset>            </fieldset>
+
+
+2...............Legend
+It is uesd for  to give the title of the forms 
+<legend>  registation form  </legend>
+
+3...........form
+it hels to create the  form attributes like as input
+<form>     <form>
+
+4........lable
+it is attribute data input keyword
+<lable> Name </name>
+
+5.........input 
+it is a tag used for get input from the user
+<input type="text">
+
+6.............combo box
+It is a type of option boke 
+like:-  Select the State means name of te state will be displayed
+<select>
+	<option value="1">Tamilnadu</option>
+	<option value="2">Andhra Pradesh</option>
+	<option value="3">Telugana</option>
+	<option value="4">Kerala</option>
+</select> 
+
+
+7.................... Multiple select Option
+
+<select multiple>   </select>
+
+8..................date picker
+to get bithday date means
+use <input type="date">
+
+
+9.................... To GiveAddress Details Means
+
+Use <textarea rows="5"  cols="30">        </textarea>
+
+10....................To give Gender Details Use Radio Button
+
+<lable>Gender</lable>	
+
+<input type="radio" name="gender">Male
+<input type="radio" name="gender">Female
+
+
+11............... like Check Box
+
+At the end of the Aplication to click agree
+
+<lable>I Ensure that I Provide the Details are    </lable>
+<input type="checkbox">
+
+
+12.........................at the same time we can give the save button also
+
+<button>save</button>
+
+13........................To give the range of the price like sliding option means
+
+<lable>Price Range</lable>
+<input type="range">
+
+14.............................To Pick the Color means
+
+
+<lable>Choose Color</lable>
+<input Type="color">
+
+
+
+
+programs:-
+
+
+<html>
+    <title>Forms in HTML
+    </title>
+    <body>
+
+        <fieldset>
+            <legend>Registration Form</legend>
+            <form>
+                <lable>Name</lable>
+                <input type="text">
+                <br>
+                <br>
+                <lable> Age</lable>
+                <br><br>
+                <input type="text">
+
+                 <! Chocie To be Select Option> 
+                 <select >
+
+                <lable> select State</lable>
+                    <option value="1">TamilNadu</option> 
+                    <option value="2">Andhra Pradesh</option> 
+                    <option value="3">Telugana</option> 
+                    <option value="4">Kerala</option> 
+                </select>         
+                <br>
+                <! To Select Multiple Choice Means Use M>
+
+                <lable> select Courses</lable>
+                <select multiple>
+                    <option value="1">C-Program</option>
+                    <option value="1">Python</option>
+                    <option value="1">Java</option>
+                    <option value="1">C++Program</option>
+
+                </select>
+
+                <!To Select Date of Birth Means>
+                <lable>Date of Birth</lable>
+                <input type="date">
+
+
+                <br>
+                <!To Provide Address Details in the Text Details>
+                <lable>Address</lable>
+                <textarea cols="30" rows="5"></textarea>
+                <br>
+
+                <! It will Helps to Give the Gender Details>
+                <lable>Gender</lable>
+                <input type="radio" name="Gender">Male
+                <input type="radio" name="Gender">Female
+                <br>
+
+                <!  Check Box Itwill Give the Last of the Application to give "I Agree">
+                <input type="checkbox"><lable>I Agree</lable>
+                
+                <br>
+                <!to import the file /are the document to the registration>
+
+                <lable>Choose File</lable>
+                <input type="file">
+
+                <br>
+                <input type="file" multiple>
+                <br>
+
+                <!To Choose the Color in the Website means>
+                <lable>Choose Color</lable>
+                <input type="color">
+                <br>
+
+                <! to five the Price Increase Button like Sliding Button>
+                <input type="range">
+                
+
+                <! finally to getSubmitted Button>
+                <br>
+
+                <button>Save</button>
+                <input type="submit">
+
+            </form>
+        </fieldset>
+
+
+
+        
+    </body>
+</html>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

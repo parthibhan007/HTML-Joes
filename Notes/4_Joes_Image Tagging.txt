@@ -1,0 +1,30 @@
+Image Tagging
+
+1................. Import image from file
+<img src="file path">
+
+2...........Resize the Image 
+<img src="F:\my pendrive f\DCIM\Screenshot_20211105-045700.png" height="200px" width="50px">
+
+3.......... Using "alt" Tag for if the image is not Reload / showing means it will Show the File Name
+<img src="F:\my pendrive f\DCIM\Screenshot_20211105-045700.png" alt="Akash" height="200px" width="50px">
+
+
+program
+
+<html>
+   <head>
+    The Photo Management System
+   </head> 
+   <body>
+    <!1.img src="F:\my pendrive f\DCIM\Screenshot_20211105-045700.png">
+
+    <! To Change the size of the image>
+
+    <!2.img src="F:\my pendrive f\DCIM\Screenshot_20211105-045700.png" height="200px" width="50px">
+
+    <!alt Tag>
+    <img src="F:\my pendrive f\DCIM\Screenshot_20211105-045700.png" alt="Akash" height="200px" width="50px">
+
+   </body>
+</html>

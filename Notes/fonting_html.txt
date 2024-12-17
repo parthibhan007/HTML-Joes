@@ -1,0 +1,84 @@
+Fornting--------------------
+
+1.---------------------bold
+<b> ----</b>
+
+2.------------------element defines text with strong importance
+<strong>----</strong>
+
+3.-----------------displayed in italic.
+<i>----></i>
+
+4------------------ emphasized text  emphasized text
+<em>---</em>
+
+5.---------------element defines smaller text
+<small> ---</small>
+
+6.-------------------text that should be marked or highlighted
+<p> the car was <mark>parked<mark> in the road</p>
+
+7.---------------Browsers will show strike a line for deleted text
+<p> Mp Favorite <del> Person </del>in my class</p>
+
+8..------------------------- underline inserted text
+<p> Mp Favorite <ins> Person </ins>in my class</p>
+
+9.---------------sub eg:-  h20  2will go  under
+<p>h<sub>2</sub>o
+
+10.----------power rule (a+b) 2
+<p>(a+b)<sup>2</sup></p>
+
+
+
+
+program
+
+
+
+<html>
+  <head> ONLINE SHOPPING
+    </head>
+  <body>
+    <h1> The Most Offerdable Price in India</h1>
+    <h2>               20% offer for all cloths</h2>
+    <b> Headphones are free </b><br></br>
+    <strong> The Note Book are free</strong><br></br>
+    <i>  The fountain pen </i><br></br>
+    <em> the Car was on the road</em><br></br>
+    <small> The car was on the road</small><br></br>
+    <p3> The Parthibhan is a <mark>sports</mark> person</p3>
+    <p>My favorite color is <del>blue</del> red.</p>
+    <p>My favorite color is <ins>blue</ins> red.</p>
+    <p>h<sub>2</sub>o</p>
+    <p>My Car was made my<sup> india</sup></p>
+    <p>(a+b)<sup>2</sup></p>
+    </body>
+  </html>
+
+
+--------------------------------------------------------------------------
+
+
+<html>
+  <title> The Online Shopping Website
+    </title>
+  <head> The Discount For the Company
+    </head>
+  <body>
+    <h1> Tech product are placed by an company</h1>
+    <p> the carh product of an company is sold by an person </p>
+    <b> The Tech Person are Inversed by an Company</b>
+    <br>
+      </br>
+    <strong> The Car was on The Road</strong>
+    <br>
+    <i> The Car was Placed on the Fly over becausse of the Rain fall </i>
+      <em> The Car was parked on the Fly Over Road Because of the Rain Fall </em>
+      <small>   If the Person Was Pass in the Exam Then He will Placed </small>
+      <p> The Tech Prodcut was Slod Because of the <mark>Corona</mark> Virus
+      </p>
+      <p>The Tech Prodcut was Slod Because of the <del>Corona</del> Virus
+    </body>
+  </html>

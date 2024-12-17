@@ -1,0 +1,69 @@
+1........... Quotations
+<blockquote cite="http://www.github.com/parrthibhan007">
+ This website provide dull details about the Engineering courses
+</blockquote>
+
+2...........Doble Quotation "--"
+
+<p> This Website Provide :<q>the programs and Practical Question</q></p>
+
+3...........Abrrivation who=world health orgination
+<p> The <abbr title="World Health Organisation ">WHO</abbr> was Founded in 1948</p>
+
+4........... Address of the book ,Author,Writter
+
+<address>
+        Author: By Jhon Doe,<br>
+        Visit us at:Vellor,<br>
+        WWW.com/hhtp://pathibhan<br>
+        box:- 342,island America,<br>
+        USA.
+        </address>
+
+5............cite like to change the font by i -italy
+<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+
+6..................to repeat this Sentence use "bdo"
+<bdo dir="rtl">This text will be written from right to left</bdo>
+
+
+
+
+
+
+
+
+
+program
+
+<html>
+  <title> THE Promt Engineering
+    </title> <br></br>
+  <body>
+    <p>Here is a quote from WWF's website:</p>   
+    
+    <blockquote cite="http://www.github.com/parthibhan002">
+      This website Provide Full Details about the Engineering Course and Full Detailed answer for the all Practical Qusestions
+      </blockquote>
+    <p> This Website Provide :<q>the programs and Practical Question</q></p>        
+    
+    <p> The <abbr title="World Health Organization" >WHO</abbr> was founded in 1948</p>
+    
+      <address>
+        Author: By Jhon Doe,<br>
+        Visit us at:Vellor,<br>
+        WWW.com/hhtp://pathibhan<br>
+        box:- 342,island America,<br>
+        USA.
+        </address>
+        
+<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+        
+        <bdo dir="rtl">This text will be written from right to left</bdo>       
+        
+        
+    
+    
+    </body>
+  
+  </html>
